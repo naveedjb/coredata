@@ -1,0 +1,55 @@
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.SimpleMDI.exe
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.SimpleMDI.pdb
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.dll
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.pdb
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.xml
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.csprojResolveAssemblyReference.cache
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\ShellView.baml
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\ShellView.g.cs
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\App.g.cs
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI_MarkupCompile.cache
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI_MarkupCompile.lref
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\App.baml
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.g.resources
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.Properties.Resources.resources
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.csproj.GenerateResource.Cache
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.exe
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.pdb
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\ContactsView.baml
+C:\Users\Zeeshan\Downloads\Caliburn.Micro v1.5.2 Snapshot\samples\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\ContactsView.g.cs
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.exe
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.pdb
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.SimpleMDI.exe
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.SimpleMDI.pdb
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\System.Windows.Interactivity.dll
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.pdb
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.xml
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\System.Windows.Interactivity.xml
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.csprojResolveAssemblyReference.cache
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\ShellView.baml
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\ShellView.g.cs
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\App.g.cs
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI_MarkupCompile.cache
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI_MarkupCompile.lref
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\App.baml
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.g.resources
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.Properties.Resources.resources
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Caliburn.Micro.SimpleMDI.csproj.GenerateResource.Cache
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Views\ContactView.baml
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Views\ContactView.g.cs
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.SimpleMDI.exe.config
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Views\SearchView.baml
+C:\w3schools_demo\Caliburn.Micro.SimpleMDI\Caliburn.Micro.SimpleMDI\obj\x86\Debug\Views\SearchView.g.cs
